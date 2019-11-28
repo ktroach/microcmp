@@ -1,2 +1,4 @@
-# Welcome to MicroCMP
+# MicroCMP
+
+### Microprise College Management Platform
 
